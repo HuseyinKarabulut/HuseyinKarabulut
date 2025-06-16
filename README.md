@@ -1,11 +1,10 @@
-# hüseyinkarabulut / README.md
+
 
 I'm a final-year Electronics and Communication Engineering student with a passion for embedded systems, robotics, and hardware design. On my GitHub, I showcase projects that reflect my hands-on experience and interest in real-world problem-solving through innovative engineering.
 
 ## 🚀 Some of My Projects:
-
-- **CoreXY 3D Printer Design**: A CoreXY-based 3D printer developed with a focus on modularity, affordability, and local production. Designed to be open-source and easily maintainable.
-
+- **Voron Legacy 3D Printer:** Building a CoreXY-style Voron Legacy 3D printer from scratch, including sourcing parts, mechanical assembly, and firmware setup.
+- **DS1302 RTC with STM32 + 4-Digit Display:** A project where I use STM32 microcontroller to read time and date from the DS1302 RTC module and display them on a 4-digit 7-segment display.
 - **RFID-Based Access Control System**: Built using STM32 and RC522 RFID module, this project reads RFID card UIDs and displays them on an OLED screen, showcasing embedded systems and communication protocols.
  
 I'm passionate about prototyping, experimenting with electronics, and learning through building. I enjoy collaborating on open-source hardware and software projects that solve real problems.
@@ -15,16 +14,18 @@ I'm passionate about prototyping, experimenting with electronics, and learning t
 
 You can find my 3D printable designs here:
 
-[![Printables](https://img.shields.io/badge/Printables-%23ffb600.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABRklEQVQ4T7XTu0oDQRiG4U8rDQ2loKIgCH+AxNzDwk/gDZ2tpEQg/gJtLKSgkRCwgRJCIqAo1NaNRI9lOnemPM88fwzLkhvhFv4GcZAG2ACdoFtvAU2fI+flrDcSrTHP1iGhPMghjWEJq1j+MT3K4DtQxf4f3cJBfC6HJQGGct+kGeK+RUw1tBe5pmH5jgxMPWPA2YZgA3YDmNLMsmt5dCJnb9UzTn9fQj3M3klgCGsV9RMNqZx1Zxhkb81T3zzMIewKgq5jTtKZdnGBRLB+mq6H31UUbB7VPRblnhXU5ibV2L0FOSyMiSrg65kxCVdRM5ETOM9NO8GnWYB2mT7Ruaz8AMsOa2HqdZXQAAAAASUVORK5CYII=&logoColor=white)](https://www.printables.com/@TRexCreator_2259251)
+[![Printables](https://img.shields.io/badge/Printables-ffb600?style=flat-square&logo=printables&logoColor=white)](https://www.printables.com/@TRexCreator_2259251)
+&nbsp;
+[![Thingiverse](https://img.shields.io/badge/Thingiverse-0a65ff?style=flat-square&logo=thingiverse&logoColor=white)](https://www.thingiverse.com/t-rexcreator/designs)
+&nbsp;
+[![MakerWorld](https://img.shields.io/badge/MakerWorld-00BFFF?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAV1BMVEUAAABtbW3///9gYGCjo6Ozs7PV1dWxsbHIyMiRkZGLi4uhoaGCgoKXl5e4uLh9fX3Hx8c8PDzg4ODv7+/X19e+vr6amprBwcHAwMCRkZFkZGTa2tpLS0vZ+TUnAAAAC3RSTlMAEBAgMCcnNjs9gsClAAAAZUlEQVQY023P2xKDIAxAUQfBTALYgP7/V7uhO0gUl0zPOE9UMYw2VJ5MD8TLB97jFyWgVah07+I11yUagHx9p27LKc1KXu63UGrzC/9vT+KeOhGMwBmn8C7XICzvq7ex9PZUP3+GEU5Hr5znTNVvAAAAAElFTkSuQmCC&logoColor=white)](https://makerworld.com/en/@T_RexCreator)
 
-[![Thingiverse](https://img.shields.io/badge/Thingiverse-%231977f3.svg?style=for-the-badge&logo=thingiverse&logoColor=white)](https://www.thingiverse.com/t-rexcreator/designs)
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hüseyin-karabulut-131863252/)
-
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hüseyin-karabulut-131863252/)
 
 
 ## 🛠 Tech Stack:
