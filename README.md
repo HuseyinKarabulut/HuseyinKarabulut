@@ -7,47 +7,23 @@ I'm a final-year Electronics and Communication Engineering student with a passio
 - **CoreXY 3D Printer Design**: A CoreXY-based 3D printer developed with a focus on modularity, affordability, and local production. Designed to be open-source and easily maintainable.
 
 - **RFID-Based Access Control System**: Built using STM32 and RC522 RFID module, this project reads RFID card UIDs and displays them on an OLED screen, showcasing embedded systems and communication protocols.
-
-- **Multi-Function RC Controller**: A remote control system using Raspberry Pi Pico, dual joysticks, OLED screen, buttons, and NRF24L01 module, designed for RC vehicles with an intuitive interface and power-efficient operation.
-
-- **Adjustable Voltage Soldering Tool**: An ATTiny85-based controller for a soldering iron using a lithium-ion battery, capable of adjusting output voltage in three stages using a single button.
-
-- **Ongoing PCB Designs**: Creating custom PCBs for my projects using KiCad and Fritzing, including parts like MKS Robin Nano V3.1 for 3D printing applications.
-
----
-
+ 
 I'm passionate about prototyping, experimenting with electronics, and learning through building. I enjoy collaborating on open-source hardware and software projects that solve real problems.
 
 ---
 ## 🖨️ 3D Printing Designs
 
-<div align="left">
+You can find my 3D printable designs here:
 
-<a href="https://www.printables.com/@TRexCreator_2259251" target="_blank">
-  <img src="https://static.printables.com/images/printables_favicon.png" width="24" style="vertical-align:middle; margin-right:8px;">
-  <strong>Printables Profile</strong>
-</a>  
-<br>
+[![Printables](https://img.shields.io/badge/Printables-%23ffb600.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABRklEQVQ4T7XTu0oDQRiG4U8rDQ2loKIgCH+AxNzDwk/gDZ2tpEQg/gJtLKSgkRCwgRJCIqAo1NaNRI9lOnemPM88fwzLkhvhFv4GcZAG2ACdoFtvAU2fI+flrDcSrTHP1iGhPMghjWEJq1j+MT3K4DtQxf4f3cJBfC6HJQGGct+kGeK+RUw1tBe5pmH5jgxMPWPA2YZgA3YDmNLMsmt5dCJnb9UzTn9fQj3M3klgCGsV9RMNqZx1Zxhkb81T3zzMIewKgq5jTtKZdnGBRLB+mq6H31UUbB7VPRblnhXU5ibV2L0FOSyMiSrg65kxCVdRM5ETOM9NO8GnWYB2mT7Ruaz8AMsOa2HqdZXQAAAAASUVORK5CYII=&logoColor=white)](https://www.printables.com/@TRexCreator_2259251)
 
-<a href="https://www.thingiverse.com/t-rexcreator/designs" target="_blank">
-  <img src="https://www.thingiverse.com/favicon.ico" width="20" style="vertical-align:middle; margin-right:8px;">
-  <strong>Thingiverse Profile</strong>
-</a>
-
-</div>
+[![Thingiverse](https://img.shields.io/badge/Thingiverse-%231977f3.svg?style=for-the-badge&logo=thingiverse&logoColor=white)](https://www.thingiverse.com/t-rexcreator/designs)
 
 ---
 
 ## 🌐 Connect with Me
 
-<div align="left">
-
-<a href="https://www.linkedin.com/in/hüseyin-karabulut-131863252/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align:middle; margin-right:8px;">
-  <strong>LinkedIn - Hüseyin Karabulut</strong>
-</a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hüseyin-karabulut-131863252/)
 
 
 
