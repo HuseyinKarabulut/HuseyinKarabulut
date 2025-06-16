@@ -19,12 +19,37 @@ I'm a final-year Electronics and Communication Engineering student with a passio
 I'm passionate about prototyping, experimenting with electronics, and learning through building. I enjoy collaborating on open-source hardware and software projects that solve real problems.
 
 ---
+## 🖨️ 3D Printing Designs
 
-## 🌐 Connect with me:
+<div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([(https://www.linkedin.com/in/hüseyin-karabulut-131863252/)])
+<a href="https://www.printables.com/@TRexCreator_2259251" target="_blank">
+  <img src="https://static.printables.com/images/printables_favicon.png" width="24" style="vertical-align:middle; margin-right:8px;">
+  <strong>Printables Profile</strong>
+</a>  
+<br>
+
+<a href="https://www.thingiverse.com/t-rexcreator/designs" target="_blank">
+  <img src="https://www.thingiverse.com/favicon.ico" width="20" style="vertical-align:middle; margin-right:8px;">
+  <strong>Thingiverse Profile</strong>
+</a>
+
+</div>
 
 ---
+
+## 🌐 Connect with Me
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/hüseyin-karabulut-131863252/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align:middle; margin-right:8px;">
+  <strong>LinkedIn - Hüseyin Karabulut</strong>
+</a>
+
+</div>
+
+
 
 ## 🛠 Tech Stack:
 
@@ -45,4 +70,9 @@ I'm passionate about prototyping, experimenting with electronics, and learning t
 
 > 📌 *"Building is learning."*  
 > Let's keep making things that matter.
+> 
+> ⚡ *“The present is theirs; the future, for which I really worked, is mine.”*  
+> — **Nikola Tesla**
+
+
 
