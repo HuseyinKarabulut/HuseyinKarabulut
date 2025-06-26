@@ -1,6 +1,6 @@
 
 
-I'm a final-year Electronics and Communication Engineering student with a passion for embedded systems, robotics, and hardware design. On my GitHub, I showcase projects that reflect my hands-on experience and interest in real-world problem-solving through innovative engineering.
+I'm a final-year Electirical Electronics Engineering student with a passion for embedded systems, robotics, and hardware design. On my GitHub, I showcase projects that reflect my hands-on experience and interest in real-world problem-solving through innovative engineering.
 
 ## 🚀 Some of My Projects:
 - **Voron Legacy 3D Printer:** Building a CoreXY-style Voron Legacy 3D printer from scratch, including sourcing parts, mechanical assembly, and firmware setup.
